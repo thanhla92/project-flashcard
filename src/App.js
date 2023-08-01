@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="app-routes">
       <Switch>
-        <Route path="/">
+        <Route exact path="/">
           <Layout />
         </Route>
       </Switch>
