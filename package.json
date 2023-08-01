@@ -1,5 +1,6 @@
 {
-  "homepages": ".",
+  "homepages": "http://thanhla92.github.io/project-flashcard",
+  "homepage": ".",
   "name": "project-flashcards",
   "version": "0.1.0",
   "private": true,
